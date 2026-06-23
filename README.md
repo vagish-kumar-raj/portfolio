@@ -13,11 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
+<img src="https://badges.aleen42.com/src/html5.svg" alt="HTML5">
 
 ---
 
 ## 📄 License
 
-Copyright © 2026 Vagish Kumar Raj. All rights reserved. 
-This project and its contents are for portfolio demonstration purposes only. Unauthorised copying or distribution of the code is strictly prohibited.
+This project is open-source and available under the [MIT License](LICENSE).
