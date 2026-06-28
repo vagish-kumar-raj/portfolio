@@ -7,13 +7,9 @@
 
 ---
 
-## ✨ Features
-
-
----
-
 ## 🛠️ Tech Stack
-<img src="https://badges.aleen42.com/src/html5.svg" alt="HTML5">
+<img src="https://badges.aleen42.com/src/html5.svg" alt="HTML5"> <img src="https://badges.aleen42.com/src/css3.svg" alt="CSS3">
+
 
 ---
 
